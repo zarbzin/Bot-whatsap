@@ -1,1 +1,0 @@
-sh blackmd.sh
